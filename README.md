@@ -1,5 +1,7 @@
 # front-end-jokes
 ## HTML, CSS, Javascript, &amp; React jokes to brighten your day
+![code jokes](https://github.com/user-attachments/assets/06c820b7-e573-4d95-813f-ffdd1c19b681)
+
 Learning something new can take a bit of grit and encouragement to eventually thrive in it. I hope that these front-end development jokes land, and tickle your frustrations into a few laughs.
 
 #### HTML
